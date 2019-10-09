@@ -1,2 +1,1 @@
-# CarRentalRefactoring
-Example of a classic refactoring
+Small deviation from Martin Fowler's famous refactoring example
